@@ -1,0 +1,7 @@
+{
+  "name": "Global Wanderlust Planner",
+  "description": "An intelligent travel planning platform powered by Gemini, featuring budget tracking and deep spend analysis for world travelers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
